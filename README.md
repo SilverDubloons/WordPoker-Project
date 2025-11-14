@@ -1,2 +1,1 @@
-# WordPoker-Project
-A multiplayer Unity (6000.0.23f1) game for 2-6 players, texas hold 'em with letters
+A multiplayer Unity (6000.0.23f1) game for 2-6 players, using photon fusion. It is simply Texas Hold 'Em but played with a deck made from letters with values, akin to scrabble tiles. Hands are scored based on the value of the best possible word (discovered programmatically, players do not need to know how to spell) https://silverdubloons.itch.io/word-poker
